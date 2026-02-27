@@ -1,1 +1,38 @@
 /.metadata/
+### Maven ###
+target/
+dependency-reduced-pom.xml
+
+### Logs ###
+*.log
+logs/
+
+### Spring Boot config files (optional – if sensitive) ###
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+### IntelliJ ###
+.idea/
+*.iml
+out/
+
+### Eclipse / STS ###
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+### VS Code ###
+.vscode/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Maven Wrapper (Keep these files tracked) ###
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+!mvnw
+!mvnw.cmd
