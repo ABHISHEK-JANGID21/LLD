@@ -1,4 +1,4 @@
-package com.aj.llm.chainOfResponsibility.atm;
+package com.aj.lld.chainOfResponsibility.atm;
 
 abstract class CashDispenser {
     protected CashDispenser next;

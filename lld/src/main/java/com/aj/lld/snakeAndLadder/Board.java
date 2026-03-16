@@ -1,4 +1,4 @@
-package com.aj.llm.snakeAndLadder;
+package com.aj.lld.snakeAndLadder;
 
 import java.util.HashMap;
 import java.util.Map;

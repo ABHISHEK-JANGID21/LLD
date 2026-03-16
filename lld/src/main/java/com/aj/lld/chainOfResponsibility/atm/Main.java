@@ -1,4 +1,4 @@
-package com.aj.llm.chainOfResponsibility.atm;
+package com.aj.lld.chainOfResponsibility.atm;
 public class Main {
     public static void main(String[] args) {
 

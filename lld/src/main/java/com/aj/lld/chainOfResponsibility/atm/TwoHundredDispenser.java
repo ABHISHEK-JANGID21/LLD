@@ -1,4 +1,4 @@
-package com.aj.llm.chainOfResponsibility.atm;
+package com.aj.lld.chainOfResponsibility.atm;
 
 class TwoHundredDispenser extends CashDispenser {
     public void dispense(int amount) {

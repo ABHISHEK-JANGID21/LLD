@@ -1,5 +1,5 @@
 
-package com.aj.llm.snakeAndLadder;
+package com.aj.lld.snakeAndLadder;
 
 public class Player {
     private final String name;

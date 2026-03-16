@@ -1,5 +1,5 @@
 
-package com.aj.llm.chainIOfResponsiblity.logging;
+package com.aj.lld.chainIOfResponsiblity.logging;
 
 public class Main {
     public static void main(String[] args) {

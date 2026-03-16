@@ -1,4 +1,4 @@
-package com.aj.llm.snakeAndLadder;
+package com.aj.lld.snakeAndLadder;
 public class Main {
     public static void main(String[] args) {
         Game game = new Game();

@@ -1,4 +1,4 @@
-package com.aj.llm.snakeAndLadder;
+package com.aj.lld.snakeAndLadder;
 
 public class Dice {
 	

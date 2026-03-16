@@ -1,4 +1,4 @@
-package com.aj.llm.chainIOfResponsiblity.logging;
+package com.aj.lld.chainIOfResponsiblity.logging;
 
 abstract class Logger {
 
